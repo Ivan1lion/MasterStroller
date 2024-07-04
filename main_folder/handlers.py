@@ -1,5 +1,5 @@
 from aiogram import types, Router
-from aiogram.filters import CommandStart
+from aiogram.filters import CommandStart, Command
 
 handlers_router = Router()
 
